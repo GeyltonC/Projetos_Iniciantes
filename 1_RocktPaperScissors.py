@@ -7,6 +7,8 @@ Rock Paper Scissors Python Game
 from random import choice
 from time import sleep
 
+
+#nova linha
 jogo = ['PEDRA', 'PAPEL', 'TESOURA']
 d = v = e = 0
 while True:
